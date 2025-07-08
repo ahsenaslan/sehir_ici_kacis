@@ -136,5 +136,8 @@ if __name__ == "__main__":
             print(f"- {mekan.ad}")
     else:
         print("Uygun mekan bulunamadı.")
+
+        #kdmkedmekfn
+        
     
 
